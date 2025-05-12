@@ -16,8 +16,8 @@
     "enzyme": "^3.5.0",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
-    "react-redux": "^5.1.0",
-    "redux": "^4.0.0"
+    "react-redux": "^9.0.0",
+    "redux": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts-ts start",
